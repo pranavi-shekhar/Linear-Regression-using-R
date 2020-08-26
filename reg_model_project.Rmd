@@ -150,7 +150,7 @@ Let us take a look at our data using **str()**.
 ```{r}
 str(movies)
 ```
-
+<br>
 At this stage, we can identify our **dependent variable** - the attribute ***imdb_rating*** which is measured on a **scale of 10** (Note that ***audience_score*** and ***critics_score*** are measured on a **scale of 100**). 
 
 A cursory look at the data tells us that the columns studio, director, urls and list of actors are likely to have too many categories and may not be very relevant to our analysis. Hence, it is prudent to remove them from our data so that we have cleaner data to work with. We also omit any dates involved.  
