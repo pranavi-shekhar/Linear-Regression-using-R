@@ -4,4 +4,5 @@
 - The data set used is **movies.RData**, also included here. A codebook describing all the attributes in the data set is also avaialble.
 - The Checklist provided was originally the project rubric for the submission, but the structure is useful to provide a logical flow to the process. It is a useful reference and has hence been added.
 - The R Scipt contains all the codes used in this work. The  **reg_model_project** files contain detailed explanations of the code and approach. A **HTML** and **RMarkdown** version of the documentation is provided.
-- The complete documentation, with all the code used, can also be found here : https://rpubs.com/pranavi/652746 **or** https://pranavi-shekhar.github.io/Multiple-Linear-Regression-using-R/reg_model_project.html
+- The complete documentation, with all the code used, can also be found at my **[RPubs](https://rpubs.com/pranavi/652746)** and **[GitHub Pages]( https://pranavi-shekhar.github.io/Multiple-Linear-Regression-using-R/reg_model_project.html)**.  
+ 
